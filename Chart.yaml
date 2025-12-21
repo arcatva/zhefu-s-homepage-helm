@@ -3,4 +3,4 @@ name: zhefuz-homepage
 description: A Helm chart for Zhefu's Homepage
 type: application
 version: 1.0.0
-appVersion: "45bb3a8"
+appVersion: "0421028"
