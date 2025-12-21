@@ -1,6 +1,6 @@
 apiVersion: v2
-appVersion: latest
+name: zhefuz-homepage
 description: A Helm chart for Zhefu's Homepage
-name: zhefuz
 type: application
 version: 1.0.0
+appVersion: "38c808b"
